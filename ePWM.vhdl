@@ -1,5 +1,6 @@
 -- Enhanced PWM (ePWM) module
 -- Date: 2022/02/03
+-- Date: 2022/02/07
 -- Author: Ander Gonzalez
 -- This is a simillar PWM module implementation to ePWM modules of TI's C2000 family DSPs
 
